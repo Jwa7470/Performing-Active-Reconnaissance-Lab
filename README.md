@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-Project consists of using network scanning tools in order to perform active reconnaissance on a virtual target network to gather information on network structure, endpoints, and ports. This project was done in a virtual lab set up. 
+Project consists of learning to use network and vulnerability scanning tools in order to perform active reconnaissance on a virtual target network to gather information on network structure, endpoints, and ports. This project was done in a virtual lab setup. 
 <br />
 
 <h2> Lab Topography</h2>
